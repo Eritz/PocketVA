@@ -16,8 +16,8 @@ import retrofit2.http.Query;
 public interface AniList {
 
     String GRANT_TYPE = "client_credentials";
-    String CLIENT_ID = "client-id-here";
-    String CLIENT_SECRET = "client-secret-here";
+    String CLIENT_ID = "pocketva-x0j2z";
+    String CLIENT_SECRET = "xUtRUlUo7hJIORyjyS8p24K42p";
 
     /** Get an AccessToken key from the POST 'auth/access_token'.
      *  The Client ID and the Client Secret are obtained from the Dev website.
