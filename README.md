@@ -17,7 +17,7 @@ PocketVA is an Android app that uses AniList's database to search for actors and
 
 <img src="/picture%203.png" width="300" height="600" />
 
-Download the apk file 
+<p>Download the apk file<p>
 <a href="https://github.com/Eritz/PocketVA/releases/tag/v1.0">here.</a>
 
 
