@@ -16,3 +16,7 @@ Then, enjoy easy reference to your favorite actors!
 
 
 <img src="/picture%203.png" width="300" height="600" />
+
+
+
+Download the apk file [here](https://github.com/Eritz/PocketVA/releases/tag/v1.0)
