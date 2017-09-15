@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PocketVA</string>
+    <string name="back_to_search">Search Results</string>
+    <string name="actor">Actor</string>
+    <string name="description">Description</string>
+
+    <string name="menu_delete_all_action">Delete All</string>
+    <string name="menu_sort_ascend">Sort by Ascending</string>
+    <string name="menu_sort_descend">Sort by Descending</string>
+    <string name="menu_add_list">Add to List</string>
+    <string name="menu_delete_list">Delete from List</string>
+
+    <string name="main_list_empty">Click on Search to Begin!</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Enter a Person\'s Name Here</string>
+    <string name="search_empty_result">No results found</string>
+
+    <string name="divider_show">Anime (%1$d)</string>
+    <string name="divider_character">Character Roles</string>
+
+    <string name="base_url">https://anilist.co/api/</string>
+
+</resources>
